@@ -4,7 +4,7 @@ from openpyxl import Workbook
 excel_name = "书籍.xlsx"
 wb = Workbook()
 ws1 = wb.active
-ws1.title='书籍'
+ws1.title='书籍丰富而发二发'
 
 
 def get_html(url):
