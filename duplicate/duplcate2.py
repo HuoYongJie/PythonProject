@@ -3,7 +3,7 @@
 import hashlib
 import os.path
 import os
-import requests  #//第三方 
+import requests  #//第三方
 from time import clock as now
 
 def getmd5(filename):
